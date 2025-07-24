@@ -1,1 +1,1 @@
-Download the ZIP files for all files.
+Download the ZIP file for all files.
